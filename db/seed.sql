@@ -1,8 +1,8 @@
 INSERT INTO department (name)
-VALUES ('Sales'), ('Engineering'), ('Finance'), ('Legal');
+VALUES ('Kitchen'), ('Engineering'), ('Cecconis'), ('Beach');
 
 INSERT INTO roles (title, salary, department_id)
-VALUES ('Sales Lead', '100000', '1'),('Sales Person', '80000', '1'), ('Lead Engineer', '150000', '2'), ('Software Engineer', '120000', '2'),('Account Manager', '160000', '3'), ('Accountant', '125000', '3'),('Legal Team Lead', '250000', '4'), ('Lawyer', '190000', '4');
+VALUES ('Chef', '100000', '1'),('Cook', '60000', '1'), ('Lead Engineer', '150000', '2'), ('Engineer', '70000', '2'),('Cecconis Manager', '160000', '3'), ('Waiter', '90000', '3'),('Beach Manager', '170000', '4'), ('Beach attendant', '600000', '4');
 
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-VALUES ('John', 'Doe','1',NULL),('Mike', 'Chan', '2', '1'), ('Ashley', 'Rodriguez', '3', NULL), ('Kevin', 'Tupic', '4','3'), ('Kunal', 'Singh', '5', NULL), ('Malia', 'Brown', '6', '5'),('Sara', 'Lourd', '7', NULL), ('Tom', 'Allen', '8', '7')
+VALUES ('Sergio', 'Siagala','1',NULL),('Fabrizio', 'Paganelli', '2', '1'), ('Yosvany', 'Rodriguez', '3', NULL), ('Mauricio', 'Fernandez', '4','3'), ('Danielle', 'Ponz', '5', NULL), ('Francesca', 'Rossi', '6', '5'),('christina', 'Anstead', '7', NULL), ('Juseph', 'Quinn', '8', '7')
