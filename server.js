@@ -1,4 +1,3 @@
-const inquirer = require('inquirer');
 const cTable = require('console.table');
 const mysql = require('mysql2');
 const firstPrompt = require('./lib/start')
@@ -18,3 +17,5 @@ connection.connect(function (err) {
     console.log(`Connected to the employees_db database.`);
     firstPrompt();
 })
+
+module.exports = connection;
