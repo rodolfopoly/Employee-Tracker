@@ -1,7 +1,8 @@
 # [Video Demo](https://drive.google.com/file/d/1Lj75XalfLq1F4ZwcgcyRbD_9Dg2Uk-vY/view)
   
   # Screenshot
-  <img width="1157" alt="Screen Shot 2022-06-09 at 8 14 17 PM" src="https://user-images.githubusercontent.com/98934009/172965833-75b48644-9dca-43e1-be6c-2ad6ded26161.png">
+  <img width="1170" alt="Screen Shot 2022-06-22 at 3 55 53 PM" src="https://user-images.githubusercontent.com/98934009/175124826-b1494b46-4878-42db-9521-a7708ac9541f.png">
+
 
 
   
